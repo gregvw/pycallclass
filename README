@@ -1,0 +1,9 @@
+This example extends the idea of the earlier example at
+
+https://github.com/gregvw/pycall
+
+In this case, we define a miminal class inside a Python script and then
+create an instance of the object in C++ and call a class method.
+
+
+
